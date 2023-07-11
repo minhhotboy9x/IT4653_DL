@@ -1,3 +1,5 @@
 Image Dataset/
 images/
-my_project/train-cls/*/
+/my_project/train-cls/
+!/my_project/train-cls/*
+!/my_project/train-cls/.gitignore
