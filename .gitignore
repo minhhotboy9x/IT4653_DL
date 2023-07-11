@@ -1,4 +1,4 @@
 Image Dataset/
 images/
-my_project/train-cls/*/
-my_project/val/*/
+my_project/train-cls/*
+my_project/val/*
